@@ -1,0 +1,2 @@
+# discoin
+The discord cryptocurency
